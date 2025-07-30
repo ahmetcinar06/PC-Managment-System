@@ -39,9 +39,6 @@ Utilization values and antivirus results are generated randomly.
 The interface is fully terminal-based and easy to extend.
 
 📄 Example Output
-markdown
-Kopyala
-Düzenle
 PC Management System
 =============================
 1. About PC
