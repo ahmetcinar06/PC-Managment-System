@@ -73,25 +73,6 @@ class PC:
             print(bg_process)
         print("End of process list.")
 
-    def desktop(self):
-        print("Displaying desktop...")
-        time.sleep(1)
-        print("Desktop opened.")
-        while True:
-            time.sleep(1)
-            print("Desktop")
-            print("==================================")
-            time.sleep(0.1)
-            print("1. VS Code")
-            time.sleep(0.1)
-            print("2. Google Chrome")
-            time.sleep(0.1)
-            print("3. File Explorer")
-            time.sleep(0.1)
-            print("4. PC Management System")
-            time.sleep(0.1)
-            print("Shutdown PC")
-
 
 pc = PC()
 
