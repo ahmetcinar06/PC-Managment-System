@@ -8,7 +8,7 @@
 ## 📌 Overview
 
 ```python
-Author      = "YourNameHere"
+Author      = "Ahmet Çınar Dönmez"
 Project     = "PC Management System"
 Language    = "Python 3"
 Purpose     = "Learn and simulate PC functionalities with an interactive menu"
