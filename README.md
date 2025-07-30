@@ -1,51 +1,34 @@
-🖥️ PC Management System (Python Console App)
-This is a simple console-based PC Management System written in Python.
-It simulates basic PC tasks such as checking system specs, monitoring resource usage, performing antivirus scans, checking for updates, and listing running processes.
+# 🖥️ PC Management System
+*A simple terminal-based PC assistant built with Python*
+
+> ⚙️ Simulates PC resource tracking, antivirus scanning, updates and process listing — all in one CLI app.
+
+---
+
+## 📌 Overview
+
+```python
+Author      = "YourNameHere"
+Project     = "PC Management System"
+Language    = "Python 3"
+Purpose     = "Learn and simulate PC functionalities with an interactive menu"
+
 
 🚀 Features
-📊 View system specs (CPU, GPU, RAM, SSD info)
 
-📈 Monitor real-time resource utilization (randomized for demo purposes)
+🔍 System Info — Displays CPU, GPU, RAM, and SSD details.
+📊 Resource Monitor — Shows random utilization stats (CPU, GPU, RAM, SSD C & D).
+🛡️ Antivirus Scan — Simulates virus detection and removal.
+🔁 System Update — Checks and installs (simulated) updates.
+📋 Process List — Lists example running and background processes
 
-🛡️ Simulated antivirus scan with threat detection
-
-🔄 Check and apply system updates
-
-📋 Display running and background processes
-
-⚙️ Interactive menu-based interface
-
-🧰 Requirements
-Python 3.x
-
-No external libraries required (only built-in modules: random, time)
 
 ▶️ How to Run
-Make sure Python is installed.
+# Step 1: Clone or download this repo
+git clone https://github.com/yourusername/pc-management-system
 
-Save the file as pc_manager.py
+# Step 2: Navigate into the folder
+cd pc-management-system
 
-Run the script:
-
-bash
-Kopyala
-Düzenle
+# Step 3: Run the program
 python pc_manager.py
-📌 Notes
-This app does not interact with real system data — it's a simulation for educational/demo purposes.
-
-Utilization values and antivirus results are generated randomly.
-
-The interface is fully terminal-based and easy to extend.
-
-📄 Example Output
-PC Management System
-=============================
-1. About PC
-2. PC Status
-3. Antivirus Scan
-4. System Update
-5. Processes
-6. Exit
-✏️ License
-This project is open for personal use, learning, and customization
