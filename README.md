@@ -32,3 +32,26 @@ cd pc-management-system
 
 # Step 3: Run the program
 python pc_manager.py
+
+
+🧰 Requirements
+Modules = ["random", "time"]
+Interpreter = "Python 3.x"
+No third-party libraries needed — runs with standard Python modules.
+
+
+💡 Example Menu
+PC Management System
+=================================
+1. About PC
+2. PC Status
+3. Antivirus Scan
+4. System Update
+5. Processes
+6. Exit
+
+
+📄 License
+This project is open-source and free to use for educational or personal projects.
+You can contribute, modify or improve it as you wish!
+
